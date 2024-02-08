@@ -4,7 +4,7 @@ def moyenne(v):
     for i in v: 
         n += 1
         
-
     for i in v:
         t += i
+        
     return t / n
